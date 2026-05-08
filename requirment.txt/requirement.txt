@@ -1,0 +1,7 @@
+langchain
+ollama
+langchain - community
+openai
+streamlit
+ipykernel
+langchain_ollama

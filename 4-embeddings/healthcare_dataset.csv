@@ -1,0 +1,50 @@
+Patient_ID,Age,Gender,Weight,Height,Symptoms,Symptom_Duration,Severity_Level,Existing_Conditions,Allergies,Current_Medications,Suggested_Specialist,Possible_Condition,Recommended_Action,Emergency_Level,Lifestyle_Habits,Region,Language,Mental_Health_Status,Follow_Up_Required
+P0001,12,Male,77.2,147.5,Breathing Difficulty,13 days,Severe,Food Poisoning,your,generation,Dermatologist,Hypertension,Immediate Consultation,High,Sedentary Lifestyle,Phillipside,English,Anxiety,Yes
+P0002,83,Male,56.5,180.1,Cough,10 days,Moderate,Skin Infection,politics,find,ENT Specialist,Stress,Home Care,Low,Healthy Diet,Michaelborough,English,Stable,Yes
+P0003,23,Female,103.6,189.1,Nausea,14 days,Moderate,Arthritis,they,social,Cardiologist,Diabetes,Immediate Consultation,High,Poor Sleep,Whitemouth,Hindi,Stable,No
+P0004,69,Male,41.1,160.2,Breathing Difficulty,9 days,Mild,Migraine,town,up,Psychiatrist,Asthma,Immediate Consultation,Critical,Regular Exercise,North Lukeburgh,English,Depression Symptoms,No
+P0005,80,Female,98.3,139.4,Joint Pain,8 days,Moderate,Asthma,clearly,change,ENT Specialist,Viral Infection,Schedule Doctor Visit,Low,Regular Exercise,Daniellefurt,English,Anxiety,No
+P0006,24,Female,53.2,185.2,Fever,6 days,Severe,Viral Infection,change,show,Cardiologist,Diabetes,Emergency Room Visit,Low,Sedentary Lifestyle,Lake Joshuastad,English,Depression Symptoms,No
+P0007,84,Male,103.3,136.6,Cough,7 days,Severe,Arthritis,section,focus,Orthopedic,Skin Infection,Schedule Doctor Visit,Low,Sedentary Lifestyle,South Sharon,Hindi,Stable,Yes
+P0008,81,Female,52.5,140.1,Skin Rash,5 days,Severe,Asthma,value,poor,Cardiologist,Allergy,Home Care,High,Healthy Diet,Flemingchester,English,Depression Symptoms,No
+P0009,11,Female,38.6,186.5,Back Pain,2 days,Mild,Arthritis,education,sign,Neurologist,Migraine,Home Care,High,Healthy Diet,Port Michaelmouth,English,Stress,No
+P0010,37,Female,96.0,157.8,Breathing Difficulty,5 days,Severe,Migraine,against,realize,Pulmonologist,Arthritis,Emergency Room Visit,Critical,Poor Sleep,West Phillip,Hindi,Depression Symptoms,No
+P0011,9,Female,64.3,172.9,Headache,9 days,Severe,Allergy,purpose,PM,Psychiatrist,Food Poisoning,Schedule Doctor Visit,Medium,Smoker,South Samuel,Hindi,Stress,Yes
+P0012,15,Female,83.6,126.5,Fatigue,4 days,Severe,Migraine,much,unit,Orthopedic,Hypertension,Immediate Consultation,Low,Smoker,Knighthaven,Hindi,Stable,No
+P0013,36,Male,37.0,121.2,Dizziness,11 days,Severe,Food Poisoning,conference,report,Psychiatrist,Heart Disease,Emergency Room Visit,Medium,Smoker,North Elizabeth,English,Depression Symptoms,No
+P0014,26,Male,98.3,167.7,Chest Pain,8 days,Mild,Arthritis,rule,score,Neurologist,Allergy,Home Care,Medium,Healthy Diet,Cabreraberg,Hindi,Anxiety,Yes
+P0015,24,Female,100.8,148.2,Skin Rash,13 days,Severe,Viral Infection,report,approach,Orthopedic,Diabetes,Immediate Consultation,Medium,Poor Sleep,East Stephaniefurt,Hindi,Anxiety,Yes
+P0016,84,Male,102.9,165.2,Back Pain,1 days,Mild,Viral Infection,again,rise,ENT Specialist,Stress,Immediate Consultation,Medium,Regular Exercise,West Andreaville,Hindi,Depression Symptoms,Yes
+P0017,13,Female,64.0,182.9,Chest Pain,8 days,Mild,Allergy,learn,or,Neurologist,Allergy,Schedule Doctor Visit,Medium,Smoker,West Melissa,Hindi,Depression Symptoms,Yes
+P0018,51,Female,48.5,190.0,Body Pain,8 days,Moderate,Stress,probably,make,Neurologist,Skin Infection,Immediate Consultation,Low,Regular Exercise,Tonistad,Hindi,Depression Symptoms,Yes
+P0019,73,Female,81.6,168.7,Nausea,12 days,Mild,Allergy,little,none,Gastroenterologist,Food Poisoning,Schedule Doctor Visit,Low,Poor Sleep,West Kaylachester,Hindi,Anxiety,No
+P0020,85,Male,96.8,158.1,Headache,5 days,Moderate,Food Poisoning,its,goal,Dermatologist,Hypertension,Home Care,Low,Smoker,East Meghan,English,Stress,No
+P0021,5,Female,104.5,131.1,Back Pain,6 days,Mild,Hypertension,budget,world,Gastroenterologist,Heart Disease,Schedule Doctor Visit,Critical,Regular Exercise,Mcconnellstad,Hindi,Stress,No
+P0022,72,Male,38.9,173.5,Cough,10 days,Severe,Hypertension,piece,center,Gastroenterologist,Hypertension,Immediate Consultation,High,Healthy Diet,East John,English,Stable,Yes
+P0023,67,Female,98.5,130.5,Dizziness,14 days,Mild,Viral Infection,family,story,Cardiologist,Viral Infection,Emergency Room Visit,Medium,Poor Sleep,Dominiqueton,Hindi,Anxiety,Yes
+P0024,66,Male,96.5,194.1,Anxiety,13 days,Severe,Hypertension,realize,century,Orthopedic,Viral Infection,Schedule Doctor Visit,High,Poor Sleep,Lake Michaelview,English,Anxiety,No
+P0025,23,Female,69.6,190.0,Body Pain,4 days,Mild,Migraine,this,particularly,Orthopedic,Allergy,Emergency Room Visit,Critical,Poor Sleep,Bradyhaven,English,Depression Symptoms,Yes
+P0026,25,Male,57.3,158.9,Breathing Difficulty,7 days,Severe,Diabetes,painting,office,General Physician,Allergy,Home Care,Critical,Healthy Diet,Port Shirley,English,Depression Symptoms,Yes
+P0027,13,Female,95.9,153.5,Fever,2 days,Mild,Migraine,develop,easy,General Physician,Heart Disease,Emergency Room Visit,High,Healthy Diet,New Steven,English,Anxiety,Yes
+P0028,35,Female,44.2,135.5,Joint Pain,7 days,Severe,Stress,friend,move,Dermatologist,Asthma,Emergency Room Visit,High,Poor Sleep,Coleview,English,Anxiety,No
+P0029,43,Female,56.5,130.9,Fever,8 days,Mild,Allergy,bank,indicate,Gastroenterologist,Hypertension,Emergency Room Visit,Critical,Regular Exercise,Port Amber,Hindi,Stable,No
+P0030,60,Female,95.0,188.2,Body Pain,11 days,Mild,Allergy,person,protect,Neurologist,Viral Infection,Emergency Room Visit,Critical,Smoker,Lake Rodney,Hindi,Stress,Yes
+P0031,58,Female,94.9,175.7,Back Pain,6 days,Severe,Viral Infection,service,prepare,Pulmonologist,Arthritis,Immediate Consultation,Medium,Smoker,North Tina,English,Anxiety,Yes
+P0032,25,Male,81.8,160.5,Anxiety,5 days,Mild,Migraine,writer,accept,ENT Specialist,Heart Disease,Home Care,Low,Healthy Diet,New Davidburgh,English,Stress,No
+P0033,32,Male,69.4,131.5,Skin Rash,13 days,Moderate,Diabetes,fill,well,ENT Specialist,Viral Infection,Emergency Room Visit,Medium,Regular Exercise,Smithchester,English,Depression Symptoms,Yes
+P0034,9,Male,51.3,189.3,Skin Rash,11 days,Mild,Arthritis,use,point,General Physician,Arthritis,Home Care,Medium,Sedentary Lifestyle,Howardmouth,Hindi,Stable,Yes
+P0035,3,Male,66.8,186.4,Chest Pain,7 days,Severe,Arthritis,concern,draw,ENT Specialist,Asthma,Home Care,Medium,Poor Sleep,Lake Christophertown,English,Depression Symptoms,Yes
+P0036,6,Female,104.9,171.9,Cough,2 days,Severe,Migraine,produce,word,Dermatologist,Asthma,Immediate Consultation,High,Regular Exercise,West Robert,English,Depression Symptoms,Yes
+P0037,52,Male,68.7,198.1,Fatigue,8 days,Mild,Stress,various,everybody,ENT Specialist,Diabetes,Immediate Consultation,Critical,Regular Exercise,Desireeview,Hindi,Stable,Yes
+P0038,19,Female,71.1,194.3,Anxiety,2 days,Moderate,Food Poisoning,worry,no,General Physician,Diabetes,Emergency Room Visit,Critical,Sedentary Lifestyle,Mariafurt,Hindi,Depression Symptoms,No
+P0039,54,Male,56.6,174.5,Fatigue,1 days,Moderate,Arthritis,economic,interesting,Orthopedic,Stress,Immediate Consultation,Medium,Regular Exercise,Donaldfurt,Hindi,Stable,No
+P0040,1,Male,95.4,180.3,Skin Rash,14 days,Mild,Migraine,me,technology,Neurologist,Asthma,Home Care,Critical,Sedentary Lifestyle,East Nathanburgh,English,Stress,Yes
+P0041,52,Male,78.6,170.4,Cough,7 days,Moderate,Allergy,issue,half,Orthopedic,Migraine,Immediate Consultation,High,Healthy Diet,Allisonberg,Hindi,Stable,No
+P0042,32,Female,90.1,185.7,Joint Pain,3 days,Mild,Migraine,positive,book,Cardiologist,Stress,Emergency Room Visit,Low,Healthy Diet,Zacharychester,Hindi,Anxiety,Yes
+P0043,29,Male,82.8,123.2,Skin Rash,13 days,Severe,Viral Infection,page,sometimes,General Physician,Asthma,Schedule Doctor Visit,Medium,Regular Exercise,Nicoleland,English,Depression Symptoms,Yes
+P0044,20,Female,103.5,179.2,Breathing Difficulty,13 days,Mild,Stress,behind,health,Pulmonologist,Stress,Schedule Doctor Visit,High,Healthy Diet,Charlesland,English,Depression Symptoms,Yes
+P0045,74,Female,73.3,171.8,Nausea,8 days,Severe,Stress,attack,least,General Physician,Allergy,Schedule Doctor Visit,Low,Healthy Diet,Bakertown,Hindi,Stable,No
+P0046,78,Female,46.9,134.4,Joint Pain,13 days,Moderate,Diabetes,relationship,can,ENT Specialist,Heart Disease,Emergency Room Visit,Critical,Sedentary Lifestyle,Davidfort,English,Anxiety,Yes
+P0047,84,Female,42.6,169.0,Joint Pain,5 days,Moderate,Hypertension,civil,year,Pulmonologist,Asthma,Home Care,High,Healthy Diet,Port Kentland,Hindi,Stress,No
+P0048,44,Female,95.8,127.9,Fatigue,14 days,Severe,Allergy,style,according,Dermatologist,Arthritis,Immediate Consultation,Critical,Sedentary Lifestyle,Port Kimberly,English,Stable,Yes
+P0049,70,Male,94.4,196.4,Dizziness,2 days,Moderate,Allergy,everyone,democratic,ENT Specialist,Viral Infection,Emergency Room Visit,Low,Smoker,West Crystal,Hindi,Depression Symptoms,No
