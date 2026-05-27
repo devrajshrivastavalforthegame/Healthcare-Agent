@@ -265,13 +265,18 @@ Instructions:
                 response = requests.post(
                     url=f"{OLLAMA_URL}/api/generate",
                     json={
-                        "model": "llama3",
+                        "model": "llama3.2:3b",
                         "prompt": prompt,
                         "stream": False
                     }
                 )
 
-                ai_response = response.json()["response"]
+                response_data = response.json()
+
+                if "response" in response_data:
+                    ai_response = response_data["response"]
+                else:
+                    ai_response = f"Error: {response_data}"    
 
                 # Save AI Response
                 st.session_state.chat_history.append({
