@@ -45,7 +45,8 @@ Instructions:
 - Mention emergency warning signs
 """
 
-# Send to Ollama
+# Send to 
+print("Sending request to llama3...")
 response = requests.post(
     "http://localhost:11434/api/generate",
     json={
@@ -54,6 +55,7 @@ response = requests.post(
         "stream": False
     }
 )
+print("Response received!")
 
 answer = response.json()["response"]
 
