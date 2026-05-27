@@ -11,7 +11,8 @@ with open("data/healthcare.txt", "r", encoding="utf-8") as file:
 for i, line in enumerate(lines):
 
     response = requests.post(
-        "http://localhost:11434/api/embeddings",
+        OLLAMA_URL = "https://your-ngrok-url.ngrok-free.app",
+        url=f"{OLLAMA_URL}/api/generate",
         json={
             "model": "nomic-embed-text",
             "prompt": line
