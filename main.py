@@ -261,7 +261,7 @@ Instructions:
             with st.spinner("🤖 AI is thinking..."):
 
                 response = requests.post(
-                    OLLAMA_URL = "https://your-ngrok-url.ngrok-free.app",
+                    OLLAMA_URL = "https://stowing-unspoiled-singer.ngrok-free.dev",
                     url=f"{OLLAMA_URL}/api/generate",
                     json={
                         "model": "llama3",

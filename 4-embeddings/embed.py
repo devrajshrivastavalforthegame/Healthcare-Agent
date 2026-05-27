@@ -11,7 +11,7 @@ with open("data/healthcare.txt", "r", encoding="utf-8") as file:
 for i, line in enumerate(lines):
 
     response = requests.post(
-        OLLAMA_URL = "https://your-ngrok-url.ngrok-free.app",
+        OLLAMA_URL = "https://stowing-unspoiled-singer.ngrok-free.dev",
         url=f"{OLLAMA_URL}/api/generate",
         json={
             "model": "nomic-embed-text",
